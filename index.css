@@ -1,0 +1,68 @@
+html{
+  margin:0px;
+  box-sizing: border-box;
+}
+
+.container{
+    display:block;
+    width:100%;
+    height:100%;
+    margin:2px;
+    position: relative;
+    border:green solid 2px;
+}
+
+.header{
+    height: 20%;
+    display:block;
+    position: relative;
+    text-align: center;
+    background-color: darkgray;
+}
+.main{
+  display:block;
+  position: relative;
+  width:100%;
+  height:100%;
+  background-color: white;
+  border: darkgoldenrod solid 2px;
+}
+.booklist{
+    display:block;
+    position:relative;
+    box-sizing: border-box;
+    width:30%;
+    border: #b80b0b solid 2px;
+    
+}
+
+.booklist li{
+  list-style-type: none;
+}
+
+.booklist image{
+  width:10px;
+  height:10px;
+}
+
+.booklist .description{
+ border:#b80b0b solid thick;  
+}
+
+.filter-container{
+   display:block;
+   position: absolute;
+   top:30px;
+   left:32%;
+   width:60%;
+   box-sizing: border-box;
+   border:darkblue solid 2px;
+}
+
+
+.footer{
+    height:20%;
+    display: block;
+    position:relative;
+    background-color: darkgray;
+  }

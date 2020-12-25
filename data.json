@@ -1,0 +1,48 @@
+{
+    
+"books":[
+            {
+                "_id":"121",
+                "bookName":"Java Script",
+                "image":"/images/js1.jpg",
+                "author":"Bat Man",
+                "version":"8.0"
+            },
+        
+            {
+                "_id":"122",
+                "bookName":"Java Script & Query",
+                "image":"/images/js2.jpg",
+                "author":"Iron Man",
+                "version":"6.0" 
+            },
+            {
+                "_id":"123",
+                "bookName":"Java Script",
+                "image":"/images/js4.jpg",
+                "author":"Rajni",
+                "version":"5.0"
+            },
+            {
+                "_id":"124",
+                "bookName":"java Script",
+                "image":"/images/js5.jpg",
+                "author":"Super Girl",
+                "version":"8.0"
+            },
+            {
+                "_id":"125",
+                "bookName":"java Script",
+                "image":"/images/js6.jpg",
+                "author":"Super Man",
+                "version":"8.0"
+            },
+            {
+                "_id":"126",
+                "bookName":"java Script",
+                "image":"/images/js7.jpg",
+                "author":"Phantom",
+                "version":"8.0"
+            }
+        ]
+    }    
